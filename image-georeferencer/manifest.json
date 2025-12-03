@@ -1,0 +1,22 @@
+{
+  "name": "image-georeferencer",
+  "label": "Image Georeferencer",
+  "type": "widget",
+  "version": "1.17.0",
+  "exbVersion": "1.17.0",
+  "author": "Miguel Barrenechea Sanchez",
+  "description": "A widget to upload and georeference images using ArcGIS MediaLayer with interactive georeferencing tools",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "dependency": "jimu-arcgis",
+  "properties": {
+    "canConsumeMap": true
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 400,
+    "height": 600
+  }
+}
